@@ -3,6 +3,6 @@
 int main()
 {
     printf("Hello World!\n");
-    printf("Should I make coupon function in master branch??\n");
+    printf("coupon2: 30 percents discount\n");
     return 0;
 }
