@@ -10,6 +10,6 @@ int foo() { return 5; }
 int main()
 {//return 0;
   const int c = foo();
-  
+  printf("");
   return a[0]+b[0];
 }
